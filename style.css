@@ -1,0 +1,232 @@
+.body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.header {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(Images/Banner\ Image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-shrink: 0;
+    border-radius: 16px;
+    height: 600px;
+    margin: 50px 140px 0; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    
+    
+}
+
+.small-title{
+    font-size: 40px;
+    /* width: 260px; */
+    height: 40px;
+    color: #FFF;
+    margin: 0;
+}
+
+
+.long-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    margin: 0;
+}
+
+
+.offer-container{
+    text-align: center;
+    padding: 30px;
+    background: #FFF;
+    font-family: Inter;
+    
+}
+
+
+.heading-offer{
+    font-size: 60px;
+    font-style: normal;
+    font-family: Inter;
+    font-weight: 700;
+    color: red;
+    margin-bottom: 0;
+}
+
+.heading-short{
+    color: red;
+    font-weight: 500;
+    font-family: Inter;
+}
+
+.offer-container>h2{
+    color: #070211;
+    font-weight: 700;
+}
+
+.welcome-banner-container{
+    
+    background: linear-gradient(190deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(Images/Vectorrr.png);
+    background-size: cover;
+    border-radius: 16px;
+    height: 600px;
+    margin: 50px 140px 0; 
+    box-sizing: border-box;
+
+}
+
+
+
+.text-welcome-container{
+    color: white;
+    margin-left: 126px;
+    padding-top: 126px;
+    align-items: center;
+}
+
+.welcome-heading{
+    letter-spacing: 7.04px;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0;
+    
+}
+
+.join-button{
+    color: black;
+    background-color: white;
+    border: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    cursor: pointer;
+    margin-bottom: 160px;
+    margin-top: 40px;
+}
+
+.welcome-dummy-text{
+    font-family: Inter;
+    
+}
+
+.location-container{
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 16px;
+    height: 500px;
+    margin: 50px 140px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+.location-container span{
+    color: #F00;
+}
+.location-container button{
+    color: white;
+    background-color: #F00;
+    border: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    margin-top: 40px;
+}
+
+.offer-comming{
+    font-size: 64px;
+    font-weight: 900;
+    margin: 0;
+    font-size: 48px;
+    line-height: normal;
+}
+
+
+.best-offer-section{
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.best-offer-section {
+    margin: 100px 140px 0;
+}
+
+.best-offer-text {
+    flex: 1;
+}
+
+.celebration-container {
+    display: flex;
+    align-items: center;
+}
+
+.celebration-image {
+    margin-right: 10px;
+    border-radius: 463px;
+    border: 15px solid #F00; 
+    
+    
+    
+}
+
+.uff-new-year {
+    
+    flex: 1;
+    text-align: right;
+
+}
+
+
+.holidays-sale{
+    color: black;
+}
+
+.holidays-short-title{
+    font-family: Inter;
+    font-weight: 500px;
+    margin: 0;
+    margin-top: 80px;
+    
+}
+
+.holidays-sale{
+    text-align: center;
+    margin: 0;
+}
+
+.holidays-max-title{
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin: 0;
+}
+
+.dummy-text-description {
+    font-family: Inter;
+    color: rgba(7, 2, 17, 0.60);;
+
+}
