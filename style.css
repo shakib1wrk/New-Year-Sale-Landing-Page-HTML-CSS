@@ -1,4 +1,3 @@
-
 .body{
     font-family: 'Merriweather', serif;
     font-family: 'Inter', sans-serif;
@@ -18,9 +17,6 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    
-    
-    
 }
 
 .small-title{
@@ -80,10 +76,7 @@
     height: 600px;
     margin: 50px 140px 0; 
     box-sizing: border-box;
-
 }
-
-
 
 .text-welcome-container{
     color: white;
@@ -98,7 +91,6 @@
     font-style: normal;
     font-weight: 900;
     margin: 0;
-    
 }
 
 .join-button{
@@ -165,7 +157,6 @@
     margin: 0;
     font-size: 48px;
     line-height: normal;
-    
 }
 
 
@@ -175,7 +166,6 @@
     align-items: center;
     justify-content: center;
     margin: 100px 140px 0;
-
 }
 
 
@@ -191,17 +181,13 @@
 .celebration-image {
     margin-right: 10px;
     border-radius: 463px;
-    border: 15px solid #F00; 
-    
-    
-    
+    padding: 30px;
+    border: 15px solid #F00;    
 }
 
-.uff-new-year {
-    
+.uff-new-year { 
     flex: 1;
     text-align: right;
-
 }
 
 
@@ -214,7 +200,6 @@
     font-weight: 500px;
     margin: 0;
     margin-top: 80px;
-    
 }
 
 .holidays-sale{
@@ -239,19 +224,10 @@
 .dummy-text-description {
     font-family: Inter;
     color: rgba(7, 2, 17, 0.60);;
-
 }
 
-
-
-
-
-
-
 .image-grid {
-    max-width: 1200px; /* Adjust the max-width as needed */
-    /* margin: px auto; */
-    border: 0;
+    max-width: 1200px;
     border-radius: 16px;
 }
 
@@ -268,9 +244,6 @@ img {
     margin: 0;
     
 }
-
-
-
 
 .portfolio-container{
     border-radius: 16px;
