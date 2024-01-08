@@ -404,7 +404,7 @@ footer{
 
 .right-len{
     margin-left: 600px;
-
+    margin-right: 1px;
     
 }
 
@@ -431,6 +431,7 @@ footer > hr {
     padding-top: 48px;
     width: 64px;
     height: 64px;
+    padding-inline: 20px;
 }
 
 .last-footer {
