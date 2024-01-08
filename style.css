@@ -76,7 +76,21 @@
     height: 600px;
     margin: 50px 140px 0; 
     box-sizing: border-box;
+    display: flex;
 }
+
+.mid-image{
+    background: url(Images/Group\ 70.png);
+    background-repeat: no-repeat;
+    width: 319.83px;
+    height: 464.662px;
+    margin-left: 40px;
+    margin-top: 68.11px;
+    margin-right: 10px;
+
+}
+
+
 
 .text-welcome-container{
     color: white;
@@ -219,6 +233,36 @@
     font-weight: 900;
     line-height: normal;
     margin: 0;
+}
+
+.holidays-sale{
+    
+    width: 1320px;
+    margin: 40px auto;
+    height: 900px;
+    background-image: url('Images/Rectangle\ 2.png'),url('Images/Rectangle\ 1.png') ;
+    background-position: bottom center,right center;
+    background-repeat: no-repeat;
+}
+
+
+.image{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 0;
+}
+
+.image-one{
+    
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+
+}
+.image .image-2{
+    margin-top: 100px;
+    margin-bottom: 320px; 
+    margin-left: 180px;
 }
 
 .dummy-text-description {
